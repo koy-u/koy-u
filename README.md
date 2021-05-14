@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koy-u&label=Profile%20views&color=0e75b6&style=flat" alt="koy-u" /> </p>
 
-- 🔭 I’m currently working on [careerfy template redesigning](https://github.com/koy-u/careerfy)
+- 🔭 I’m currently working on [careerfy template redesigning](https://koy-u.github.com/careerfy)
 
 - 🌱 I’m currently learning **Frameworks, Wordpress, NOsql**
 
